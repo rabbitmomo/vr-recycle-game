@@ -1,0 +1,55 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+Logs/
+
+# Local editor and IDE state
+.vs/
+.gradle/
+.consulo/
+.history/
+.plastic/
+
+# Build and export artifacts
+ExportedObj/
+*.apk
+*.unitypackage
+*.tmp
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Unity/Visual Studio project files
+*.csproj
+*.unityproj
+*.sln
+
+# Package/tooling artifacts
+.collabignore
+**/Assets/AssetStoreTools/
+**/Assets/Plugins/PlasticSCM*/
+**/Assets/AddressableAssetsData/*/*.bin*
+**/Assets/StreamingAssets/aa.meta
+**/Assets/StreamingAssets/aa/*
+
+# OS cruft
+.DS_Store*
+Thumbs.db
+Desktop.ini
